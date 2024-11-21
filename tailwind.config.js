@@ -17,7 +17,7 @@ module.exports = {
         'item-selected': 'hsl(206, 94%, 87%)',
       },
       backgroundImage: {
-        'sidebar-desktop': "url('./assets/images/bg-sidebar-desktop.svg')",
+        'sidebar-desktop': "url('/assets/images/bg-sidebar-desktop.svg')",
       },
       colors: {
         // Primary colors
